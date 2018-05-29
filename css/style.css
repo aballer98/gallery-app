@@ -1,0 +1,83 @@
+
+  body {
+
+    background: url("../media/group2.jpg");
+    background-size: cover;
+     /* background-color: rgba(0, 0, 0, 0.596); */
+
+  }
+
+
+p{
+  color: orange;
+  margin-left: 500px;
+  font-family: Luminari, fantasy;
+  font-size: 26px;
+}
+footer{
+  opacity: 0.5;
+  margin-left: 400px;
+  width: 100%;
+  border-radius:0px;
+
+}
+  h1 {
+
+    /* color: white; */
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+  }
+
+  img {
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.596);
+    border: 5px solid orange;
+
+  }
+title{
+
+
+}
+
+  #gallery-detail {
+    width: 620px;
+    border: 5px solid orange;
+    margin: 0;
+    background: #AAAAAA;
+    /* margin-left: 400px; */
+    display: none;
+    font-family: "Times New Roman", Times, serif;
+    opacity: 0.6;
+
+
+  }
+
+  button {
+    background-color: black;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
+
+   }
+
+
+
+
+
+  div h1 {
+    background-color: silver;
+  }
+
+section {
+   /* background-color: rgba(0, 0, 0, 0.596); */
+
+
+
+  }
